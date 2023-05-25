@@ -1,6 +1,8 @@
 # alpaDrive
 A passion project by a couple of auto enthusiasts to bring the latest tech features to those old gas guzzling revving set of wheels laying around in your garage.
 
+>▶️ [Watch on YouTube](https://youtu.be/b1pSNw7addc)
+
 ## What's the deal?
 In the initial version, we are enabling cloud connectivity in legacy vehicles. The setup consists of a small DIY device that connects to your car's OBD port, pairs via our mobile app and gives you real-time connectivity with the vehicle! We are happy to announce that this system is ready as of v0.1 🎉. It has the following feeatures currently working:
 * Live vehicle monitoring
@@ -11,6 +13,7 @@ In the initial version, we are enabling cloud connectivity in legacy vehicles. T
     - Health estimation
 
 **Get a quick glimpse here ⬇️**
+> **Note** The phone is on mobile data so this is the same as if you were viewing it from anywhere else in the world. For a more convincing demo, see the [video on YouTube](https://youtu.be/b1pSNw7addc).
 
 https://github.com/alpaDrive/.github/assets/50231856/598d5305-a06a-401a-a394-02cda0398999
 
