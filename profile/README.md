@@ -28,7 +28,7 @@ If you're enthusiastic enough, you can use alpaDrive. You don't require much tec
 * Some patience, because this is still an early stage project. You might run into issues.
 
 ### Steps
-1. Build a device as per the instructions detailed here](https://github.com/alpaDrive/vehicle/releases/tag/v0.1-beta).
+1. Build a device as per the instructions detailed [here](https://github.com/alpaDrive/vehicle/releases/tag/v0.1-beta).
 2. Download the APK for our app from the [releases](https://github.com/alpaDrive/app/releases/tag/android) page.
 3. Pair the app & device
 4. Leave the device in your car! You have connected it to the cloud.
