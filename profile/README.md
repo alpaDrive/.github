@@ -1,19 +1,24 @@
 # alpaDrive
 A passion project by a couple of auto enthusiasts to bring the latest tech features to those old gas guzzling revving set of wheels laying around in your garage.
 
->▶️ [Watch on YouTube](https://youtu.be/b1pSNw7addc)
+![IMG_8289](https://github.com/alpaDrive/.github/assets/50231856/13bf3237-4f68-4073-a3a3-b329f5e3ba87)
+
+>▶️ [Watch pro on YouTube](https://youtu.be/ECYxNBjZ998) ▶️ [Watch mini on YouTube](https://youtu.be/b1pSNw7addc)
 
 ## What's the deal?
-In the initial version, we are enabling cloud connectivity in legacy vehicles. The setup consists of a small DIY device that connects to your car's OBD port, pairs via our mobile app and gives you real-time connectivity with the vehicle! We are happy to announce that this system is ready as of v0.1 🎉. It has the following feeatures currently working:
+In the mini, we are enabling cloud connectivity in legacy vehicles. The setup consists of a small DIY device that connects to your car's OBD port, pairs via our mobile app and gives you real-time connectivity with the vehicle! We are happy to announce that this system is ready as of v0.1 🎉. It has the following feeatures currently working:
 * Live vehicle monitoring
     - Dashboard cluster mirroring
     - Location tracking
 * Vehicle health analysis
     - Driving stats (daily, periodic)
     - Health estimation
+ 
+As for the pro, we are still building out the prototype. You can view the [source code](https://github.com/alpaDrive/pro) to track the progress.
 
-**Get a quick glimpse here ⬇️**
+**Get a quick glimpse of the mini here ⬇️**
 > **Note** The phone is on mobile data so this is the same as if you were viewing it from anywhere else in the world. For a more convincing demo, see the [video on YouTube](https://youtu.be/b1pSNw7addc).
+
 
 https://github.com/alpaDrive/.github/assets/50231856/598d5305-a06a-401a-a394-02cda0398999
 
